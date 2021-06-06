@@ -1,15 +1,19 @@
-## Your Name / Date
+## Kayla Moss / 06/05/2021
 
 ## Executive Summary
-This is an example, please delete and create your own professional summary:
-The purpose of Lab 1 is to explore the IT1025 course set-up, examine the history of computing and get up and running with GitHub. IT1025 covers a wide-range of computing topics with a primary goal of assisting in determining student passions in IT.  IT history has many interesting facets. One of particular interest was... Regardless of one's passion in IT, frameworks such as GitHub are useful to create, update and maintain any type of file and work in an organized repository.
+IT1025 is an introductary course that is required for many of the IT degrees at Cuyahoga Community College. In this course we will learn the history of computing and networking and programming concepts. Lab 1 of IT1025 is a foundational part of all that will be done in the course. It will introduce many to the platform GitHub as well as new language involving technology.
 
 ## Information System Components
-
+1. Hardware- Disk Drives
+2. Software- Application Software: iOS; Operating Software: Windows
+3. Data- Phone Number 
+4. People- Developers
+5. Process- Business Process Management 
 ## GitHub
 ### Client - Server Architecture
+Client server architecture is the architecture of many clients that recieve service from a centralized server. The concept is that the clients are able to task the server with requests and the server responds with clear results. GitHub is an example of this because it is able to provide service to multiple clients from one server in real time.
 ### Cloud Computing
-
+An on-demand service that allows for users to store, manage and process data using a network of remote servers rather than a local server or personal computer.
 ## Hardware
 ### Hard Drives and Memory
 #### Latency and Transfer Rates
