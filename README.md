@@ -17,11 +17,19 @@ An on-demand service that allows for users to store, manage and process data usi
 ## Hardware
 ### Hard Drives and Memory
 #### Latency and Transfer Rates
+Latency is the time you wait for a sector to be accessible by your head after a completed seek. Transfer rate is the speed that data is transferred to and from the disk media and is a function of the recording frequency
 #### Solid State vs. Hard Drives
+Solid State(SSD) offers better stability than a hard drive due to it having no moving parts and no degredation of performance when data is fragmented. SSD also addresses most of the structural problems inherent to a hard disk thus allowing for there to be no latency. 
 #### Random Access Memory
+Due to RAM being temporary storage, it causes the CPU to send data back to RAM and eventually use Hard Drive space. Thus, making the computer run slower. If you increase RAM, it eliminates the extra step and allows the computer to run faster. 
 ### ALU and the Control Unit
+Arithmetic Logic Unit(ALU) is a component of the Control Unit. ALU performs all of the Mathematical operations inside of the CPU. As the Control Unit receives ordrs from RAM, it send the instruction to the ALU.
 ### CPU, Input & Output
+1. Input- Card or cash payment at pump or service counter; selection of gasoline(regular, premium or diesel) with the press of a button.
+2. CPU- Reacts to gasoline selection. Activates correct valves to release gasoline.
+3. Output- Pump releases the selected gasoline
 ### Logic Gates 
+
 ### IEEE - Ethically Aligned Design
 
 ## Conclusion
