@@ -1,4 +1,4 @@
-## Kayla Moss / 06/05/2021
+## Kayla Moss / 06/06/2021
 
 ## Executive Summary
 IT1025 is an introductory course that is required for many of the IT degrees at Cuyahoga Community College. In this course, we will learn the history of computing and networking, and programming concepts. Lab 1 of IT1025 is a foundational part of all that will be done in the course. It will introduce many to the platform GitHub as well as new language involving technology.
